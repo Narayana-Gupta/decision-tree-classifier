@@ -1,0 +1,14 @@
+# GITAM brand palette (Brand Guidelines 2024-25)
+[theme]
+base = "light"
+primaryColor = "#007367"              # GITAM Green
+backgroundColor = "#FBF6EC"           # tint of Antique White
+secondaryBackgroundColor = "#F4E4C9"  # Antique White
+textColor = "#16332F"
+font = "sans serif"
+
+[server]
+maxUploadSize = 200
+
+[browser]
+gatherUsageStats = false
